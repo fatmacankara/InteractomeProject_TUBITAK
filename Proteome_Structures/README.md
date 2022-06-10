@@ -1,0 +1,2 @@
+## IP 1. Assembly of Structures of All Proteins in the Human Proteome
+Currently, we only have metadata about available structures.
